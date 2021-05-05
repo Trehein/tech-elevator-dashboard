@@ -5,7 +5,7 @@ An full stack data visualization application for internal Tech Elevator staff us
 ### For Pathway Advisors
 - View an interactive map identifying partners and tech elevator campus locations as well as anonymized locations for students and placements all filterable by cohort or period of time
 - View the graduation and placement rates of cohorts over time as an interactive line chart
-- Display success stories for students and partners
+- View success stories for students and partners
 
 ### For Instructors
 - View quiz score averages over time as an interactive line chart
